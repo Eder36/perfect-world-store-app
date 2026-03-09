@@ -17,4 +17,4 @@ IDE: Android Studio
 
 Backend: Firebase Realtime Database
 
-Design: Figma
+Design: Figma.
